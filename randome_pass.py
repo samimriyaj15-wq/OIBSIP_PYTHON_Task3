@@ -1234,7 +1234,7 @@ def create_settings_page():
 
     tk.Label(
         footer,
-        text="Developed by Sayan Pramanik",
+        text="Developed by Sk Samim Riyaj",
         bg=COLORS["bg"],
         fg=COLORS["secondary"],
         font=("Segoe UI", 10, "bold")
@@ -1242,7 +1242,7 @@ def create_settings_page():
 
     tk.Label(
         footer,
-        text="© 2026 Sayan Pramanik",
+        text="© 2026 Sk Samim Riyaj",
         bg=COLORS["bg"],
         fg=COLORS["secondary"],
         font=("Segoe UI", 9)
